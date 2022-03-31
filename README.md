@@ -24,6 +24,16 @@ The **bookstore** application offers the various operations to user like Add, Up
 
 **How to run two applications with GKE cluster.**
 
-Follow the Configuration steps to host two applications on cluster here
+<details>
+  <summary>Follow the Configuration steps to host two applications on GKE cluster</summary>
+  
+  [Configuration Document](https://docs.google.com/presentation/d/1ZvfArz_3UWtNvCicByJx-psaJ6lAFNbDKZoARx6mxGE/edit?usp=sharing)
+</details>
 
-Overview of the project instructions on Google slides. 
+<details>
+  <summary>Overview of the project instructions on Google slides</summary>
+  
+  [Google slides presentation](https://docs.google.com/presentation/d/1ZvfArz_3UWtNvCicByJx-psaJ6lAFNbDKZoARx6mxGE/edit?usp=sharing)
+</details>
+
+
