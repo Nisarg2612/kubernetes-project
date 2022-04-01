@@ -1,11 +1,13 @@
 # Kubernetes Project With Google Cloud Platform Components
 
+
 The project has two applications are running with one MongoDB database and Kubernetes services. 
 
 The **student record** application allows user to access the student record from request student_id. The application  running with  Node.js + MongoDB + Google Kubernetes Engine (GKE).
 
 The **bookstore** application offers the various operations to user like Add, Update, Delete book in bookstore database and access the books list and information about the particular book in MongoDB database. The application running on the Python Flask Web Framework + REST API + MongoDB + Google Kubernetes Engine (GKE).
 
+---
 **Sample Output**
 
 `Access the student record application`
@@ -24,7 +26,7 @@ The **bookstore** application offers the various operations to user like Add, Up
 
 ![image](https://user-images.githubusercontent.com/35762778/161216957-3050c156-e69a-4950-a54b-fb7db34f9cd8.png)
 
-
+---
 
 **Both applications have using the following services to run over the Google Kubernetes Engine.**
 
@@ -40,17 +42,18 @@ The **bookstore** application offers the various operations to user like Add, Up
 
 **TLS (Transport Layer Security):** To encrypt the data while transporting between pod and ingress for secure connection.
 
+---
 **How to run two applications with GKE cluster.**
 
 <details>
-  <summary>Follow the Configuration steps to host two applications on GKE cluster</summary>
+  <summary> Follow the Configuration steps to host two applications on GKE cluster below</summary>
   
-  [Configuration Document]
+[Configuration Document](https://github.com/Nisarg2612/kubernetes-project/blob/main/CS571_Week_10_Project_19619_Nisarg_Patel.pdf)
 
 </details>
 
 <details>
-  <summary>Overview of the project instructions on Google slides</summary>
+  <summary> Overview of the project instructions on Google slides below</summary>
   
   [Google slides presentation](https://docs.google.com/presentation/d/1ZvfArz_3UWtNvCicByJx-psaJ6lAFNbDKZoARx6mxGE/edit?usp=sharing)
 </details>
